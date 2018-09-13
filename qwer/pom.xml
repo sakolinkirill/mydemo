@@ -9,4 +9,9 @@
 
     <artifactId>qwer</artifactId>
     <version>0.0.7-SNAPSHOT</version>
+
+    <scm>
+        <connection>scm:git:https://github.com/sakolinkirill/mydemo.git</connection>
+        <developerConnection>scm:git:https://github.com/sakolinkirill/mydemo.git</developerConnection>
+    </scm>
 </project>
