@@ -10,8 +10,4 @@
     <artifactId>qwer</artifactId>
     <version>0.0.5-SNAPSHOT</version>
 
-
-  <scm>
-    <tag>qwer-0.0.4</tag>
-  </scm>
 </project>
