@@ -4,7 +4,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<modules>
 		<module>qwer</module>
 	</modules>
@@ -61,7 +61,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/sakolinkirill/mydemo.git</connection>
 		<developerConnection>scm:git:https://github.com/sakolinkirill/mydemo.git</developerConnection>
-		<tag>demo-0.0.3</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
